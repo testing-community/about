@@ -11,7 +11,7 @@ Somos una iniciativa para compartir conocimiento acerca de crear software de alt
 
 Siguenos en:
 
-* [Meetup](https://www.meetup.com/es/Agile-Testing-Colombia)
+* [Meetup](https://www.meetup.com/Agile-Testing-Colombia)
 * [Youtube](https://www.youtube.com/channel/UChli8GyCDvORT84gI7B5ybw)
 * [Twitter](https://twitter.com/agiletestingcol)
 * [Facebook](https://www.facebook.com/AgileTestingColombia/)
