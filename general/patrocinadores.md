@@ -3,7 +3,7 @@
 Buscamos en nuestros patrocinadores una colaboración mutua para impartir conocimiento y lograr relaciones entre profesionales del área. Por tanto, al ser patrocinador de la comunidad Agile Testing Colombia podrá:
 
 * Dar a conocer por medio de charlas los productos y servicios que presta su empresa en temas relacionados con pruebas de software
-* Envió de oportunidades laborales relacionadas con la industria del Software principalmente en el sector de pruebas de software
+* Envío de oportunidades laborales relacionadas con la industria del Software principalmente en el sector de pruebas de software
 * Divulgar abiertamente el apoyo que brinda a Agile Testing Colombia
 
 Las personas, empresas o instituciones que desean patrocinarnos podrán hacerlo de la siguientes maneras:
