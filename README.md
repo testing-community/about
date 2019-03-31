@@ -16,6 +16,6 @@ Siguenos en:
 * [Twitter](https://twitter.com/agiletestingcol)
 * [Facebook](https://www.facebook.com/AgileTestingColombia/)
 
-Documentos de Interes:
+## Documentos de Interes
 
 * [Información para los patrocinadores](https://github.com/AgileTestingColombia/about/blob/master/general/patrocinadores.md)
